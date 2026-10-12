@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "ESP32-simple_sleep_timer: light sleep with timer wake-up"
+abstract: "An ESP32 program that enters light sleep, wakes up on a timer, and measures the time it slept. Written in C with ESP-IDF and FreeRTOS, in VS Code with PlatformIO, at the Universidade de Brasília with Prof. Jones Yudi Mori Alves da Silva."
+authors:
+  - family-names: "Ramos"
+    given-names: "Daniel Campos"
+    orcid: "https://orcid.org/0009-0001-4546-8673"
+    affiliation: "Universidade de Brasília"
+license: GPL-3.0-or-later
+repository-code: "https://github.com/danielcamposramos/ESP32-simple_sleep_timer"
+keywords:
+  - "ESP32"
+  - "ESP-IDF"
+  - "FreeRTOS"
+  - "embedded systems"
+  - "C"
+  - "light sleep"
+  - "low power"
+  - "timer"
